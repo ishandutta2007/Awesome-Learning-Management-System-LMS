@@ -1,6 +1,6 @@
 # Awesome-Learning-Management-System-LMS
 
-# Top Learning Management System (LMS) Ecosystem
+## Top Learning Management System (LMS) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Course Delivery, SCORM/LTI Compliance & Scalable Learner Analytics*  
